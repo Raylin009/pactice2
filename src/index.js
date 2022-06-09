@@ -11,7 +11,6 @@ function Square(props) {
 }
 
 function Board(props) {
-
   const renderSquare = (i) =>{
     return (
       <Square
